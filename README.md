@@ -1,5 +1,5 @@
 # 👋 Welcome!
-Being French, I naturally have a strong love for math—especially stochastic calculus! I got my energy training at Centrica Energy and DTU in Denmark, getting the best of both worlds in energy markets and quantitative modeling!
+Being French (cocorico 🐓), I naturally have a strong love for math ! (especially stochastic calculus) I had the chance to train in energy markets at Centrica Energy and DTU in Denmark, getting the best of both worlds in energy markets, quantitative modeling and ML !
 
 Quantitative Research & Machine Learning in Energy Trading:
 - Energy Commodities (Power, Natural Gas, Oil), FX, Fixed Income  
