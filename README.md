@@ -9,6 +9,7 @@ Currently, I am developing **hestonpy**, a Python library for:
 
 📌 Supports Heston and Black-Scholes models. Check it out [here](https://github.com/SarcasticMatrix/hestonpy)!
 
+
 ## Interests
 
 My interests in few words: Quantitative Research & Machine Learning in Energy Trading:
