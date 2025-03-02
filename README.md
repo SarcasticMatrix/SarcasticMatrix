@@ -1,5 +1,7 @@
 # 👋 Welcome!
-Being French (cocorico :chicken:), I naturally have a strong love for math ! (especially stochastic calculus) I had the chance to train in energy markets at Centrica Energy and DTU in Denmark, getting the best of both worlds in energy markets, quantitative modeling and ML :)
+Being French (cocorico :chicken:), I naturally have a strong love for math ! (especially stochastic calculus) 
+
+I had the chance to train in energy markets at Centrica Energy and DTU in Denmark, getting the best of both worlds in energy markets, quantitative modeling and ML :)
 
 ## 🛠️ Projects  
 Currently, I am developing **hestonpy**, a Python library for:  
