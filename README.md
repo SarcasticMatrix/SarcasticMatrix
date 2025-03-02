@@ -24,6 +24,6 @@ Currently, I am developing **hestonpy**, a Python library for:
 
 Supports Heston and Black-Scholes models. More features coming soon!  
 
-📌 Check it out [here](https://github.com/your-username/hestonpy)!  
+📌 Check it out [here](https://github.com/SarcasticMatrix/hestonpy)!  
 
 💬 Let's talk quant, energy, and trading!
