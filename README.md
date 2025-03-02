@@ -11,7 +11,6 @@ Currently, I am developing **hestonpy**, a Python library for:
 
 
 ## Interests
-
 My interests in few words: Quantitative Research & Machine Learning in Energy Trading:
 - Energy Commodities (Power, Natural Gas, Oil), FX, Fixed Income  
 - Option Theory
