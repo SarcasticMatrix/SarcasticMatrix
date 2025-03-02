@@ -7,9 +7,7 @@ Currently, I am developing **hestonpy**, a Python library for:
 ✅ Hedging strategies  
 📌 Calibration of models (delta of course but also delta-vega)
 
-Supports Heston and Black-Scholes models. More features coming soon!  
-
-📌 Check it out [here](https://github.com/SarcasticMatrix/hestonpy)!
+📌 Supports Heston and Black-Scholes models. Check it out [here](https://github.com/SarcasticMatrix/hestonpy)!
 
 ## Interests
 
