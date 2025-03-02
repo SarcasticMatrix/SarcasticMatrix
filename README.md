@@ -3,9 +3,10 @@ Being French (cocorico 🐓), I naturally have a strong love for math ! (especia
 
 My interests in few words: Quantitative Research & Machine Learning in Energy Trading:
 - Energy Commodities (Power, Natural Gas, Oil), FX, Fixed Income  
-- Option Theory & Pricing  
-- Hedging & Risk Management  
-- Model Calibration  
+- Option Theory
+  - Pricing 
+  - Hedging & Risk Management  
+  - Model Calibration  
 - Systematic Trading Strategies  
 
 ## 📚 Main References  
