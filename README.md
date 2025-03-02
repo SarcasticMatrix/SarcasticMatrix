@@ -3,9 +3,9 @@ Being French (cocorico 🐓), I naturally have a strong love for math ! (especia
 
 ## 🛠️ Projects  
 Currently, I am developing **hestonpy**, a Python library for:  
-✅ Pricing options  
-✅ Hedging strategies  
-📌 Calibration of models (delta of course but also delta-vega)
+- Pricing options  
+- Hedging strategies  
+- Calibration of models (delta of course but also delta-vega)
 
 📌 Supports Heston and Black-Scholes models. Check it out [here](https://github.com/SarcasticMatrix/hestonpy)!
 
