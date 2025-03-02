@@ -9,16 +9,6 @@ Currently, I am developing **hestonpy**, a Python library for:
 
 📌 Supports Heston and Black-Scholes models. Check it out [here](https://github.com/SarcasticMatrix/hestonpy)!
 
-
-## Interests
-My interests in few words: Quantitative Research & Machine Learning in Energy Trading:
-- Energy Commodities (Power, Natural Gas, Oil), FX, Fixed Income  
-- Option Theory
-  - Pricing 
-  - Hedging & Risk Management  
-  - Model Calibration  
-- Systematic Trading Strategies  
-
 ## 📚 Main References  
 Here are some of the books that guide my research and development:  
 - *Arbitrage Theory in Continuous Time* – T. Björk  
@@ -26,5 +16,14 @@ Here are some of the books that guide my research and development:
 - *Electricity Derivatives* – R. Aïd  
 - *Quantitative Portfolio Management* – M. Isichenko  
 - *Options, Futures, and Other Derivatives* – J. Hull  
+
+## Interests
+My interests in few words: Quantitative Research & Machine Learning in Energy Trading:
+- Energy Commodities (Power, Natural Gas, Oil), FX, Fixed Income  
+- Option Theory
+  - Pricing 
+  - Hedging & Risk Management  
+  - Model Calibration  
+- Systematic Trading Strategies
 
 💬 Let's talk quant, energy, and trading!
