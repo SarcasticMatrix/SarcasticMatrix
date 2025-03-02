@@ -3,7 +3,7 @@ Being French (cocorico :chicken:), I naturally have a strong love for math ! (es
 
 ## 🛠️ Projects  
 Currently, I am developing **hestonpy**, a Python library for:  
-> [hestonpy]
+> [!NOTE]
 > - Pricing options
 > - Hedging strategies
 > - Calibration of models (delta of course but also delta-vega)
