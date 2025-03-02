@@ -1,6 +1,6 @@
 # 👋 Welcome!
+Being French, I naturally have a strong love for math—especially stochastic calculus! I got my energy training at Centrica Energy and DTU in Denmark, getting the best of both worlds in energy markets and quantitative modeling!
 
-## 🔥 Key Interests
 Quantitative Research & Machine Learning in Energy Trading:
 - Energy Commodities (Power, Natural Gas, Oil), FX, Fixed Income  
 - Option Theory & Pricing  
