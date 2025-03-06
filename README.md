@@ -5,7 +5,7 @@ I had the chance to train in energy markets at Centrica Energy and DTU in Denmar
 
 ## 🛠️ Projects  
 > [!NOTE]
-> Currently, I am developing `hestonpy`,a Python library for:  
+> Currently, I am developing `hestonpy`, a Python library for:  
 > - Pricing options
 > - Hedging strategies
 > - Calibration of models (delta of course but also delta-vega)
