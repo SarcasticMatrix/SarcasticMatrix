@@ -7,8 +7,8 @@ I had the chance to train in energy markets at Centrica Energy and DTU in Denmar
 > [!NOTE]
 > Currently, I am developing `hestonpy`, a Python library for:  
 > - Pricing options
-> - Hedging strategies
-> - Calibration of models (delta of course but also delta-vega)
+> - Hedging strategies (delta of course but also delta-vega)
+> - Calibration of models 
 >   
 > 📌 Supports Heston and Black-Scholes models. Check it out [here](https://github.com/SarcasticMatrix/hestonpy)!
 
