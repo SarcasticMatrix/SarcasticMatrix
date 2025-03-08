@@ -3,6 +3,8 @@ Being French (cocorico :chicken:), I naturally have a strong love for math ! (es
 
 I had the chance to train in energy markets at Centrica Energy and DTU in Denmark, getting the best of both worlds in energy markets, quantitative modeling and ML :)
 
+I did a double degree in Engineering and Quantitative Finance at Télécom SudParis and Paris Dauphine University.
+
 ## 🛠️ Projects  
 > [!NOTE]
 > Currently, I am developing `hestonpy`, a Python library for:  
