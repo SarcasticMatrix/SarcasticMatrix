@@ -7,7 +7,8 @@ I did a double degree in Engineering and Quantitative Finance at Télécom SudPa
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarcasticmatrix&show_icons=true&locale=en&layout=compact" alt="sarcasticmatrix" /></p>
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=sarcasticmatrix&show_icons=true)
+[![My Repository’sstats-Dark](https://github-readme-stats.vercel.app/api?username=sarcasticmatrix&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![My Repository’s stats-Light](https://github-readme-stats.vercel.app/api?username=sarcasticmatrix&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## 🛠️ Projects  
 > [!NOTE]
