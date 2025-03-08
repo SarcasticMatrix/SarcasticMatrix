@@ -5,7 +5,7 @@ I had the chance to train in energy markets at Centrica Energy and DTU in Denmar
 
 I did a double degree in Engineering and Quantitative Finance at Télécom SudParis and Paris Dauphine University.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastieneveno&show_icons=true&locale=en&layout=compact" alt="sarcasticmatrix" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarcasticmatrix&show_icons=true&locale=en&layout=compact" alt="sarcasticmatrix" /></p>
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=sarcasticmatrix&show_icons=true)
 
