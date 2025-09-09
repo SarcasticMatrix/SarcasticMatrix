@@ -7,7 +7,7 @@
 > - Calibration of models 
 > - Portfolio managment and Stochastic Control
 >   
-> 📌 Supports Heston and Black-Scholes models. Check it out [here](https://github.com/SarcasticMatrix/hestonpy)!
+> 📌 Supports Heston, Bates and Black-Scholes models. Check it out [here](https://github.com/SarcasticMatrix/hestonpy)!
 
 ## 📚 Main References  
 Here are some of the books that guide my research and development:  
