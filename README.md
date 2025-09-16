@@ -1,13 +1,12 @@
 # 👋 Welcome!
 
-> [!NOTE]
-> Currently, I am developing `hestonpy`, a Python library for:  
-> - Options pricing
-> - Hedging strategies (delta of course but also delta-vega)
-> - Calibration of models 
-> - Portfolio managment and Stochastic Control
->   
-> 📌 Supports Heston, Bates and Black-Scholes models. Check it out [here](https://github.com/SarcasticMatrix/hestonpy)!
+Currently, I am developing `hestonpy`, a Python library for:  
+- Options pricing
+- Hedging strategies (delta of course but also delta-vega)
+- Calibration of models 
+- Portfolio managment and Stochastic Control
+  
+📌 Supports Heston, Bates and Black-Scholes models. Check it out [here](https://sarcasticmatrix.github.io/hestonpy/)!
 
 ## 📚 Main References  
 Here are some of the books that guide my research and development:  
@@ -25,5 +24,3 @@ My interests in few words: Quantitative Research & Machine Learning in Energy Tr
   - Hedging & Risk Management  
   - Model Calibration  
 - Systematic Trading Strategies
-
-💬 Let's talk quant, energy, and trading!
