@@ -4,8 +4,10 @@ Currently, I am developing `hestonpy`, a Python library for:
 - Options pricing
 - Hedging strategies (delta of course but also delta-vega)
 - Calibration of models
-
 Supports Heston and Bates models: check it out [here](https://sarcasticmatrix.github.io/hestonpy/)!
+
+<img width="1500" height="1000" alt="smile-bates" src="https://github.com/user-attachments/assets/1ffb40d8-5380-418d-aa33-e58fe447772a" />
+
 
 Main References:
 - Arbitrage Theory in Continuous Time – T. Björk-The Volatility Surface – J. Gatheral
@@ -16,9 +18,6 @@ Main References:
 
 
 My interests in few words: Quantitative Research & Machine Learning in Energy Trading:
-- Energy Commodities (Power, Natural Gas, Oil), FX, Fixed Income  
+- Energy Commodities (Power, Natural Gas, Oil)
 - Option Theory
-  - Pricing 
-  - Hedging & Risk Management  
-  - Model Calibration  
 - Systematic Trading Strategies
