@@ -4,6 +4,7 @@ Currently, I am developing `hestonpy`, a Python library for:
 - Options pricing
 - Hedging strategies (delta of course but also delta-vega)
 - Calibration of models
+
 Supports Heston and Bates models: check it out [here](https://sarcasticmatrix.github.io/hestonpy/)!
 
 <img width="1500" height="1000" alt="smile-bates" src="https://github.com/user-attachments/assets/1ffb40d8-5380-418d-aa33-e58fe447772a" />
