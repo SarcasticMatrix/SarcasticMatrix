@@ -1,6 +1,6 @@
-# 👋 Welcome!
+# Hello, World!
 
-Currently, I am developing `hestonpy`, a Python library for:  
+I'm Théophile from Paris. Currently, I am developing `hestonpy`, a Python library for:  
 - Options pricing
 - Hedging strategies (delta of course but also delta-vega)
 - Calibration of models
